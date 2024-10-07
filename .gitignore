@@ -1,0 +1,12 @@
+# Excluir la carpeta node_modules
+node_modules/
+
+# Excluir el archivo .env
+.env
+
+# Excluir archivos de logs (opcional)
+*.log
+
+# Excluir archivos del sistema (opcional)
+.DS_Store
+Thumbs.db
